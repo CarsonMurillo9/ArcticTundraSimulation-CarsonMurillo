@@ -1,10 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// Author:            Carson Murillo
-// Email:             cemurillo@ucsd.edu
-// Class:             CSE 11 Winter 2026
-// Instructor's Name: Ben Ochoa
-///////////////////////////////////////////////////////////////////////////////
-
 import java.util.ArrayList;
 import java.util.Random;
 import java.io.File;
